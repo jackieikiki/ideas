@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'carrierwave'
 gem 'devise'
+gem 'cancan'
+
 gem 'rails', '3.2.13'
 
 # Bundle edge Rails instead:
